@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Yossi Yosupov</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+.NET+Developer;IoT+and+Microservices+Enthusiast;CTF+Solver+%7C+Cybersecurity+Passionate;Building+Smart+Tech+for+a+Smarter+World" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+.NET+Developer;IoT+and+Microservices+Enthusiast;CTF+Solver+%7C+Cybersecurity+Passionate;Building+Smart+Tech+for+a+Smarter+World" />
 </div>
 
 ---
